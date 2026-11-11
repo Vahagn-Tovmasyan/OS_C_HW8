@@ -53,5 +53,16 @@ The same small set of system calls can perform several different file operations
 
 ## Tests on Server
 
+<img width="544" height="137" alt="Screenshot 2026-11-11 at 23 03 51" src="https://github.com/user-attachments/assets/5be262e2-cbd9-4419-a060-5ecf36dd520e" />
+
 <img width="438" height="118" alt="Screenshot 2026-11-11 at 23 04 50" src="https://github.com/user-attachments/assets/01fcf51e-625d-4b73-a6a3-4856b7c4e7bf" />
 
+<img width="367" height="102" alt="Screenshot 2026-11-11 at 23 06 04" src="https://github.com/user-attachments/assets/212a2b99-5a4b-475a-81ac-548d1606fa2d" />
+
+<img width="391" height="99" alt="Screenshot 2026-11-11 at 23 07 10" src="https://github.com/user-attachments/assets/09ec727d-26d3-451b-a644-2f218931bce5" />
+
+<img width="391" height="38" alt="Screenshot 2026-11-11 at 23 08 08" src="https://github.com/user-attachments/assets/7615813e-410b-4ec5-999c-94163ad35f21" />
+
+<img width="391" height="228" alt="Screenshot 2026-11-11 at 23 13 15" src="https://github.com/user-attachments/assets/163822d0-da40-48e8-8d23-b390229902e6" />
+
+<img width="391" height="152" alt="Screenshot 2026-11-11 at 23 14 47" src="https://github.com/user-attachments/assets/c90cfcc3-2ad6-48d1-889b-60dd891f887c" />
