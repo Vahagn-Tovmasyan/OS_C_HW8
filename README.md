@@ -50,3 +50,8 @@ Within each block, I compare bytes at the same index. If a pair differs, I repor
 ## What these exercises demonstrate
 
 The same small set of system calls can perform several different file operations. `open()` selects how a file can be accessed, `read()` and `write()` transfer its bytes, `lseek()` controls the next position, and `ftruncate()` changes the actual length. The exercises also show why we must check return values: the number of bytes processed is not always the number requested.
+
+## Tests on Server
+
+<img width="438" height="118" alt="Screenshot 2026-11-11 at 23 04 50" src="https://github.com/user-attachments/assets/01fcf51e-625d-4b73-a6a3-4856b7c4e7bf" />
+
